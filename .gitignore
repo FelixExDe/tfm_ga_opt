@@ -1,0 +1,22 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Cachés y compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos temporales de VS Code, PyCharm, etc.
+.vscode/
+.idea/
+
+# Archivos por lotes de Windows
+*.bat
+
+# Archivos comprimidos y generados
+*.zip
+
+# Si hay notebooks temporales o salidas
+*.ipynb_checkpoints/

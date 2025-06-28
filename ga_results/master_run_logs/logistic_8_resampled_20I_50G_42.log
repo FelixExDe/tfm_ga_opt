@@ -1,0 +1,8 @@
+Transformed test data shape: (14849, 92)
+
+/home/ubuntu/codigo/genetic_optimization.py:380: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  "optimization_start_time_iso": datetime.utcnow().isoformat() + "Z",
+History saved to: 
+./ga_results/optimization_history_logistic_8_resampled_20I_50G.json
+
+Job Duration: 02:03:05

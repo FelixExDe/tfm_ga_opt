@@ -1,0 +1,8 @@
+resample_data: False resample type: <class 'bool'>
+Transformed test data shape: (14849, 92)
+
+/home/ubuntu/codigo/genetic_optimization.py:381: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  "objectives_optimized": ["maximize_macro_precision", "maximize_macro_recall"]
+History saved to: ./ga_results/optimization_history_random_forest_8_20I_50G.json
+
+Job Duration: 20:44:58
